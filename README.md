@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! Mi nombre es Diego y soy estudiante de ing.software, de Ecuador</h2>
+<h2 align="left">Hola 👋! Mi nombre es Diego y soy estudiante de Ing.Software, de Ecuador</h2>
 
 ###
 
